@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    ㄹㅏ라벨
+                    라라벨
                 </div>
 
                 <div class="links">
